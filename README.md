@@ -4,9 +4,10 @@ List of public Hue libraries
   * [python-hue](https://github.com/issackelly/python-hue) (python)     
     by [Issac Kelly](https://twitter.com/issackelly/)
 
-  * [Q42.HueApi](https://github.com/Q42/Q42.HueApi) (C#)     
+  * [Q42.HueApi](https://github.com/Q42/Q42.HueApi) (C#)  
+    [NuGet](https://nuget.org/packages/Q42.HueApi)   
     by [Q42](http://q42.nl)
-
+    
   * [Hue](https://github.com/cDima/Hue) (C#)     
     by [cDima](http://dima.sadakov.com/)
 
