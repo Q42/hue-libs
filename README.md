@@ -11,6 +11,10 @@ List of public Hue libraries
   * [Hue](https://github.com/cDima/Hue) (C#)     
     by [cDima](http://dima.sadakov.com/)
 
+  * [HueAPI](https://github.com/sjoerdvisscher/HueAPI) (Haskell)
+    [Hackage](http://hackage.haskell.org/package/HueAPI)
+    by [Sjoerd Visscher](http://sjoerdvisscher.handcraft.com/)
+
 
 Contribute
 ============================
