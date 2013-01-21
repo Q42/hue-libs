@@ -21,6 +21,9 @@ List of public Hue libraries
   * [DPHue](https://github.com/danparsons/DPHue) (Objective-C)  
     by Dan Parsons
 
+  * [Hue Hacking](https://github.com/bjohnso5/hue-hacking) (JavaScript)  
+    by Bryan Johnson
+
 
 Contribute
 ============================
