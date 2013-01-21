@@ -15,6 +15,12 @@ List of public Hue libraries
     [Hackage](http://hackage.haskell.org/package/HueAPI)     
     by [Sjoerd Visscher](http://sjoerdvisscher.handcraft.com/)
 
+  * [node-hue-api](https://github.com/peter-murray/node-hue-api) (NodeJS)
+    by Peter Murray     
+
+  * [DPHue](https://github.com/danparsons/DPHue) (Objective-C)     
+    by Dan Parsons
+
 
 Contribute
 ============================
