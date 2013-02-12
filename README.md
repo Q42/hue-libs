@@ -24,6 +24,8 @@ List of public Hue libraries
   * [Hue Hacking](https://github.com/bjohnso5/hue-hacking) (JavaScript)  
     by Bryan Johnson
 
+  * [hue-perl](https://github.com/dwery/hue-perl) (Perl)  
+    by [Alessandro Zummo](http://www.towertech.it)
 
 Contribute
 ============================
