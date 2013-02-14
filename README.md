@@ -1,4 +1,4 @@
-#List of public Phillips Hue libraries
+#List of public Philips Hue libraries
 
 ##C\# 
 * [Q42.HueApi](https://github.com/Q42/Q42.HueApi) ([NuGet](https://nuget.org/packages/Q42.HueApi)) by [Q42](http://q42.nl)
