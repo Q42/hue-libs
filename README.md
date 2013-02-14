@@ -1,32 +1,32 @@
-List of public Hue libraries
-============================
+#List of public Phillips Hue libraries
 
-  * [python-hue](https://github.com/issackelly/python-hue) (python)     
-    by [Issac Kelly](https://twitter.com/issackelly/)
+## C#
+* [Q42.HueApi](https://github.com/Q42/Q42.HueApi) ([NuGet](https://nuget.org/packages/Q42.HueApi)) by [Q42](http://q42.nl)
+* [Hue](https://github.com/cDima/Hue) by [cDima](http://dima.sadakov.com/)
 
-  * [Q42.HueApi](https://github.com/Q42/Q42.HueApi) (C#)  
-    [NuGet](https://nuget.org/packages/Q42.HueApi)   
-    by [Q42](http://q42.nl)
-    
-  * [Hue](https://github.com/cDima/Hue) (C#)     
-    by [cDima](http://dima.sadakov.com/)
+##Haskell
+* [HueAPI](https://github.com/sjoerdvisscher/HueAPI) [Hackage](http://hackage.haskell.org/package/HueAPI) by [Sjoerd Visscher](http://sjoerdvisscher.handcraft.com/)
 
-  * [HueAPI](https://github.com/sjoerdvisscher/HueAPI) (Haskell)     
-    [Hackage](http://hackage.haskell.org/package/HueAPI)     
-    by [Sjoerd Visscher](http://sjoerdvisscher.handcraft.com/)
+##JavaScript
+* [Hue Hacking](https://github.com/bjohnso5/hue-hacking) by Bryan Johnson
 
-  * [node-hue-api](https://github.com/peter-murray/node-hue-api) (NodeJS)  
-    by Peter Murray     
+##NodeJS
+* [node-hue-api](https://github.com/peter-murray/node-hue-api) by Peter Murray 
 
-  * [DPHue](https://github.com/danparsons/DPHue) (Objective-C)  
-    by Dan Parsons
+##Objective-C
+* [DPHue](https://github.com/danparsons/DPHue) by Dan Parsons
 
-  * [Hue Hacking](https://github.com/bjohnso5/hue-hacking) (JavaScript)  
-    by Bryan Johnson
+##Perl
+* [hue-perl](https://github.com/dwery/hue-perl) by [Alessandro Zummo](http://www.towertech.it)
 
-  * [hue-perl](https://github.com/dwery/hue-perl) (Perl)  
-    by [Alessandro Zummo](http://www.towertech.it)
+##PHP
+* [Phue](https://github.com/sqmk/Phue) by sqmk
 
-Contribute
-============================
+##Python
+  
+* [python-hue](https://github.com/issackelly/python-hue) by [Issac Kelly](https://twitter.com/issackelly/)
+* [phue](https://github.com/studioimaginaire/phue) by [Nathanaël Lécaudé](https://studioimaginaire.com/)
+
+#Contribute
+
 If you want to be added to this list, just send a pull request :)
