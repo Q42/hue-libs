@@ -27,6 +27,10 @@
 * [python-hue](https://github.com/issackelly/python-hue) by [Issac Kelly](https://twitter.com/issackelly/)
 * [phue](https://github.com/studioimaginaire/phue) by [Nathanaël Lécaudé](https://studioimaginaire.com/)
 
+##Ruby
+
+* [RubyHue](https://github.com/AaronH/RubyHue) by [Aaron Hurley](http://zealog.com)
+
 #Contribute
 
 If you want to be added to this list, just send a pull request :)
