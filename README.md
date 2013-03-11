@@ -34,7 +34,7 @@
 ##Ruby
 
 * [RubyHue](https://github.com/AaronH/RubyHue) by [Aaron Hurley](http://zealog.com)
-* [Ruhue](https://github.com/Burgestrand/ruhue) by [Kim Burgestrand](http://burgestrand.se/)
+* [Ruhue](https://github.com/Burgestrand/ruhue) (not maintained at the moment) by [Kim Burgestrand](http://burgestrand.se/)
 
 #Contribute
 
