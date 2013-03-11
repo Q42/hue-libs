@@ -7,6 +7,9 @@
 ##Haskell
 * [HueAPI](https://github.com/sjoerdvisscher/HueAPI) [Hackage](http://hackage.haskell.org/package/HueAPI) by [Sjoerd Visscher](http://sjoerdvisscher.handcraft.com/)
 
+##Java
+* [HomeAutomation](https://github.com/xinix00/HomeAutomation) by xinix00
+
 ##JavaScript
 * [Hue Hacking](https://github.com/bjohnso5/hue-hacking) by Bryan Johnson
 
