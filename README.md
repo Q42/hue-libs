@@ -14,6 +14,7 @@
 * [node-hue-api](https://github.com/peter-murray/node-hue-api) by Peter Murray 
 
 ##Objective-C
+* [PhilipsHueSDKiOS](https://github.com/PhilipsHue/PhilipsHueSDKiOS) by Philips
 * [DPHue](https://github.com/danparsons/DPHue) by Dan Parsons
 
 ##Perl
