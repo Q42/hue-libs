@@ -36,6 +36,10 @@
 * [RubyHue](https://github.com/AaronH/RubyHue) by [Aaron Hurley](http://zealog.com)
 * [Ruhue](https://github.com/Burgestrand/ruhue) (not maintained at the moment) by [Kim Burgestrand](http://burgestrand.se/)
 
+##IRC
+
+* [zenircbot-hue](https://github.com/bschlief/zenircbot-hue) by [Bryan Schlief](https://github.com/bschlief).  Service written in node.js for the [zenircbot](https://github.com/wraithan/zenircbot/), making use of [node-hue-api](https://github.com/peter-murray/node-hue-api).
+
 #Contribute
 
 If you want to be added to this list, just send a pull request :)
