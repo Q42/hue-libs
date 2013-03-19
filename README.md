@@ -25,6 +25,7 @@
 
 ##PHP
 * [Phue](https://github.com/sqmk/Phue) by sqmk
+* [php-hue-bindings](https://github.com/cowlby/php-hue-bindings) by cowlby
 
 ##Python
   
