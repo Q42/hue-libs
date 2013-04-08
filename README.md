@@ -9,6 +9,7 @@
 
 ##Java
 * [HomeAutomation](https://github.com/xinix00/HomeAutomation) by xinix00
+* [HueControl](https://github.com/tachoknight/HueControl) by tachoknight
 
 ##JavaScript
 * [Hue Hacking](https://github.com/bjohnso5/hue-hacking) by Bryan Johnson
