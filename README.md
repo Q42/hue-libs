@@ -39,6 +39,10 @@
 * [Ruhue](https://github.com/Burgestrand/ruhue) (not maintained at the moment) by [Kim Burgestrand](http://burgestrand.se/)
 * [siriproxy-hue](https://github.com/interstateone/siriproxy-hue) by [Brandon Evans](http://brandonevans.ca/)
 
+##Smalltalk
+
+* VisualWorks Smalltalk, checked into the Cincom Public Repository as PhilipsHue-API, by [Richard Carter](http://uk.linkedin.com/in/richiecarter)
+
 ##IRC
 
 * [zenircbot-hue](https://github.com/bschlief/zenircbot-hue) by [Bryan Schlief](https://github.com/bschlief).  Service written in node.js for the [zenircbot](https://github.com/wraithan/zenircbot/), making use of [node-hue-api](https://github.com/peter-murray/node-hue-api).
