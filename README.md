@@ -16,6 +16,7 @@
 
 ##NodeJS
 * [node-hue-api](https://github.com/peter-murray/node-hue-api) by Peter Murray 
+* [hue-module](https://github.com/whyohwhyamihere/hue-module) by Chris Anderson
 
 ##Objective-C
 * [PhilipsHueSDKiOS](https://github.com/PhilipsHue/PhilipsHueSDKiOS) by Philips
