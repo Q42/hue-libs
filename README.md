@@ -13,6 +13,7 @@
 
 ##JavaScript
 * [Hue Hacking](https://github.com/bjohnso5/hue-hacking) by Bryan Johnson
+* [Hue color converter](https://github.com/Q42/hue-color-converter) by Tom Lokhorst
 
 ##NodeJS
 * [node-hue-api](https://github.com/peter-murray/node-hue-api) by Peter Murray 
