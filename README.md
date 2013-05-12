@@ -34,6 +34,7 @@
   
 * [python-hue](https://github.com/issackelly/python-hue) by [Issac Kelly](https://twitter.com/issackelly/)
 * [phue](https://github.com/studioimaginaire/phue) by [Nathanaël Lécaudé](https://studioimaginaire.com/)
+* [pyhue](https://github.com/alexrdp90/pyhue) by Alex Rodas
 
 ##Ruby
 
