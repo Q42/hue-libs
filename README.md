@@ -39,6 +39,7 @@
 * [phue](https://github.com/studioimaginaire/phue) by [Nathanaël Lécaudé](https://studioimaginaire.com/)
 * [pyhue](https://github.com/alexrdp90/pyhue) by Alex Rodas
 * [beautifulhue](https://github.com/allanbunch/beautifulhue) by Allan Bunch
+* [pyhue](https://github.com/GuoJing/pyhue) by [GuoJing](http://guojing.me)
 
 ##Ruby
 
