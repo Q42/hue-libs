@@ -3,6 +3,9 @@
 ##ActionScript
 * [Hue AIR] (https://github.com/dyvoid/hue-air) by dyvoid
 
+##Arduino
+* [ArduinoHue](https://github.com/bsalinas/ArduinoHue) by Ben Salinas
+
 ##C\# 
 * [Q42.HueApi](https://github.com/Q42/Q42.HueApi) ([NuGet](https://nuget.org/packages/Q42.HueApi)) by [Q42](http://q42.nl)
 * [Hue](https://github.com/cDima/Hue) by [cDima](http://dima.sadakov.com/)
@@ -17,6 +20,7 @@
 ##JavaScript
 * [Hue Hacking](https://github.com/bjohnso5/hue-hacking) by Bryan Johnson
 * [Hue color converter](https://github.com/Q42/hue-color-converter) by Tom Lokhorst
+* [HueJs](https://github.com/bsalinas/huejs) by Ben Salinas
 
 ##NodeJS
 * [node-hue-api](https://github.com/peter-murray/node-hue-api) by Peter Murray 
