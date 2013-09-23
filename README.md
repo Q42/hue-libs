@@ -1,7 +1,11 @@
-#List of public Philips Hue libraries
+#Official Philips Hue SDK's
+* [Official Hue SDK for iOS](https://github.com/PhilipsHue/PhilipsHueSDKiOS) by Philips
+* [Official Hue SDK for Android](https://github.com/PhilipsHue/PhilipsHueSDKAndroid) by Philips
+
+#Complete list of libraries
 
 ##ActionScript
-* [Hue AIR] (https://github.com/dyvoid/hue-air) by dyvoid
+* [Hue AIR](https://github.com/dyvoid/hue-air) by dyvoid
 
 ##Arduino
 * [ArduinoHue](https://github.com/bsalinas/ArduinoHue) by Ben Salinas
@@ -14,6 +18,8 @@
 * [HueAPI](https://github.com/sjoerdvisscher/HueAPI) [Hackage](http://hackage.haskell.org/package/HueAPI) by [Sjoerd Visscher](http://sjoerdvisscher.handcraft.com/)
 
 ##Java
+* [Official Hue SDK for Android](https://github.com/PhilipsHue/PhilipsHueSDKAndroid) by Philips
+* [Jue](https://github.com/Q42/jue) by Q42
 * [HomeAutomation](https://github.com/xinix00/HomeAutomation) by xinix00
 * [HueControl](https://github.com/tachoknight/HueControl) by tachoknight
 
@@ -27,7 +33,7 @@
 * [hue-module](https://github.com/whyohwhyamihere/hue-module) by Chris Anderson
 
 ##Objective-C
-* [PhilipsHueSDKiOS](https://github.com/PhilipsHue/PhilipsHueSDKiOS) by Philips
+* [Official Hue SDK for iOS](https://github.com/PhilipsHue/PhilipsHueSDKiOS) by Philips
 * [DPHue](https://github.com/danparsons/DPHue) by Dan Parsons
 
 ##Perl
