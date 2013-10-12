@@ -13,6 +13,7 @@
 ##C\# 
 * [Q42.HueApi](https://github.com/Q42/Q42.HueApi) ([NuGet](https://nuget.org/packages/Q42.HueApi)) by [Q42](http://q42.nl)
 * [Hue](https://github.com/cDima/Hue) by [cDima](http://dima.sadakov.com/)
+* [SharpHue](https://github.com/qJake/SharpHue) by [qJake](https://github.com/qJake)
 
 ##Haskell
 * [HueAPI](https://github.com/sjoerdvisscher/HueAPI) [Hackage](http://hackage.haskell.org/package/HueAPI) by [Sjoerd Visscher](http://sjoerdvisscher.handcraft.com/)
