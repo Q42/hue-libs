@@ -51,6 +51,7 @@
 * [pyhue](https://github.com/alexrdp90/pyhue) by Alex Rodas
 * [beautifulhue](https://github.com/allanbunch/beautifulhue) by Allan Bunch
 * [pyhue](https://github.com/GuoJing/pyhue) by [GuoJing](http://guojing.me)
+* [Philips Hue Remote API](https://github.com/jarvisinc/PhilipsHueRemoteAPI) by [Jianer Shi](https://github.com/paulshi)
 
 ##Ruby
 
