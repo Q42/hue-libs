@@ -15,6 +15,9 @@
 * [Hue](https://github.com/cDima/Hue) by [cDima](http://dima.sadakov.com/)
 * [SharpHue](https://github.com/qJake/SharpHue) by [qJake](https://github.com/qJake)
 
+##Go
+* [Go.Hue](https://github.com/savaki/go.hue) by [Matt Ho](http://github.com/savaki)
+
 ##Haskell
 * [HueAPI](https://github.com/sjoerdvisscher/HueAPI) [Hackage](http://hackage.haskell.org/package/HueAPI) by [Sjoerd Visscher](http://sjoerdvisscher.handcraft.com/)
 
