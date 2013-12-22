@@ -10,6 +10,9 @@
 ##Arduino
 * [ArduinoHue](https://github.com/bsalinas/ArduinoHue) by Ben Salinas
 
+##C++
+* [libhue](https://github.com/mzanetti/shine/libhue) by mzanetti
+
 ##C\# 
 * [Q42.HueApi](https://github.com/Q42/Q42.HueApi) ([NuGet](https://nuget.org/packages/Q42.HueApi)) by [Q42](http://q42.nl)
 * [Hue](https://github.com/cDima/Hue) by [cDima](http://dima.sadakov.com/)
@@ -44,6 +47,7 @@
 * [hue-perl](https://github.com/dwery/hue-perl) by [Alessandro Zummo](http://www.towertech.it)
 
 ##PHP
+* [huephp](https://github.com/muesli/huephp) by muesli
 * [Phue](https://github.com/sqmk/Phue) by sqmk
 * [php-hue-bindings](https://github.com/cowlby/php-hue-bindings) by cowlby
 
