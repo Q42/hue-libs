@@ -11,7 +11,7 @@
 * [ArduinoHue](https://github.com/bsalinas/ArduinoHue) by Ben Salinas
 
 ##C++
-* [libhue](https://github.com/mzanetti/shine/libhue) by mzanetti
+* [libhue](https://github.com/mzanetti/shine/tree/master/libhue) by mzanetti
 
 ##C\# 
 * [Q42.HueApi](https://github.com/Q42/Q42.HueApi) ([NuGet](https://nuget.org/packages/Q42.HueApi)) by [Q42](http://q42.nl)
