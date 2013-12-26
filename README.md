@@ -10,6 +10,9 @@
 ##Arduino
 * [ArduinoHue](https://github.com/bsalinas/ArduinoHue) by Ben Salinas
 
+##Bash script
+* [Bash Script Library](https://github.com/markusproske/hue_bashlibrary) by Markus Proske
+
 ##C++
 * [libhue](https://github.com/mzanetti/shine/tree/master/libhue) by mzanetti
 
