@@ -37,6 +37,7 @@
 * [Hue Hacking](https://github.com/bjohnso5/hue-hacking) by Bryan Johnson
 * [Hue color converter](https://github.com/Q42/hue-color-converter) by Tom Lokhorst
 * [HueJs](https://github.com/bsalinas/huejs) by Ben Salinas
+* [jsHue](https://github.com/blargoner/jshue) by John Peloquin
 
 ##NodeJS
 * [node-hue-api](https://github.com/peter-murray/node-hue-api) by Peter Murray 
