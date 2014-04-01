@@ -68,6 +68,8 @@
 
 * [Hue](https://github.com/soffes/hue) by [Sam Soffes](https://soff.es)
 * [RubyHue](https://github.com/AaronH/RubyHue) by [Aaron Hurley](http://zealog.com)
+* [hue-lib](https://github.com/birkirb/hue-lib) by [Birkir A. Barkarson](https://github.com/birkirb)
+* [hue-cli](https://github.com/birkirb/hue-cli) by [Birkir A. Barkarson](https://github.com/birkirb)
 * [Ruhue](https://github.com/Burgestrand/ruhue) (not maintained at the moment) by [Kim Burgestrand](http://burgestrand.se/)
 * [siriproxy-hue](https://github.com/interstateone/siriproxy-hue) by [Brandon Evans](http://brandonevans.ca/)
 
