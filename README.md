@@ -21,6 +21,10 @@
 * [Hue](https://github.com/cDima/Hue) by [cDima](http://dima.sadakov.com/)
 * [SharpHue](https://github.com/qJake/SharpHue) by [qJake](https://github.com/qJake)
 
+##Clojure
+
+* [Clhue](https://github.com/Raynes/clhue)
+
 ##Go
 * [Go.Hue](https://github.com/savaki/go.hue) by [Matt Ho](http://github.com/savaki)
 
