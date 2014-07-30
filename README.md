@@ -13,6 +13,9 @@
 ##Bash script
 * [Bash Script Library](https://github.com/markusproske/hue_bashlibrary) by Markus Proske
 
+##Batch script
+* [hue-batch](https://github.com/Lanjelin/hue-batch) by Lanjelin
+
 ##C++
 * [libhue](https://github.com/mzanetti/shine/tree/master/libhue) by mzanetti
 
