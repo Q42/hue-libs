@@ -74,6 +74,7 @@
 
 ##Ruby
 
+* [lights](https://github.com/turnerba/lights) by [Brady Turner](https://github.com/turnerba)
 * [Hue](https://github.com/soffes/hue) by [Sam Soffes](https://soff.es)
 * [RubyHue](https://github.com/AaronH/RubyHue) by [Aaron Hurley](http://zealog.com)
 * [hue-lib](https://github.com/birkirb/hue-lib) by [Birkir A. Barkarson](https://github.com/birkirb)
