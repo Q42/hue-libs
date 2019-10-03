@@ -47,6 +47,7 @@
 * [jsHue](https://github.com/blargoner/jshue) by John Peloquin
 
 ##NodeJS
+* [hue-lib (npm package)](https://npmjs.com/package/hue-lib) by David Cunningham
 * [node-hue-api](https://github.com/peter-murray/node-hue-api) by Peter Murray 
 * [hue-module](https://github.com/whyohwhyamihere/hue-module) by Chris Anderson
 
