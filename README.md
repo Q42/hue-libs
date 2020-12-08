@@ -37,7 +37,7 @@
 * [Official Hue SDK for Android](https://github.com/PhilipsHue/PhilipsHueSDKAndroid) by Philips
 * [HomeAutomation](https://github.com/xinix00/HomeAutomation) by xinix00
 * [HueControl](https://github.com/tachoknight/HueControl) by tachoknight
-* [OpenHueSdk] (https://github.com/FutureHax/OpenHueSdk) by r2DoesInc
+* [OpenHueSdk](https://github.com/FutureHax/OpenHueSdk) by r2DoesInc
 
 ## JavaScript
 * [Hue Hacking](https://github.com/bjohnso5/hue-hacking) by Bryan Johnson
