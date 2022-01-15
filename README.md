@@ -29,6 +29,7 @@
 
 ## Go
 * [Go.Hue](https://github.com/savaki/go.hue) by [Matt Ho](http://github.com/savaki)
+* [huego](https://github.com/amimof/huego) by [Amir Mofasser](https://github.com/amimof)
 
 ## Haskell
 * [HueAPI](https://github.com/sjoerdvisscher/HueAPI) [Hackage](http://hackage.haskell.org/package/HueAPI) by [Sjoerd Visscher](http://sjoerdvisscher.handcraft.com/)
