@@ -52,6 +52,10 @@
 * [hue-module](https://github.com/whyohwhyamihere/hue-module) by Chris Anderson
 * [Hue Debugger UI](https://hue-debugger-ui.com) by [Silind Software](https://github.com/Silind)
 
+## Typescript
+
+* [Hue-Sync](https://github.com/jdmg94/Hue-Sync) by José Muñoz
+
 ## Objective-C
 * [Official Hue SDK for iOS](https://github.com/PhilipsHue/PhilipsHueSDKiOS) by Philips
 * [DPHue](https://github.com/danparsons/DPHue) by Dan Parsons
